@@ -1,12 +1,3 @@
-### Hi there 👋
-NICE
-<img src="[[https://tenor.com/es/ver/welcome-gif-25476242](https://tenor.com/es/ver/welcome-gif-25476242)](https://tenor.com/es/ver/baby-yoda-welcome-gif-22416975)" alt="Welcome gif" align="right" width="500" height="600" >
-
-<!--
-**JorgeKGIT/JorgeKGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Jorge Kessler</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 <img align="right" alt="Welcome" width="400" src= "https://media.tenor.com/mugZdxy-l5EAAAAM/welcome-gif.gif">
