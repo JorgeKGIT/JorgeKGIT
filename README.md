@@ -1,5 +1,6 @@
 ### Hi there 👋
-##NICE
+NICE
+<img src="https://external-preview.redd.it/qWUzXIlT_9lzmhBMexIzGT_8DtpsaqTT7Fo-_6a4W7o.gif?format=mp4&s=7550c9fc58fa8ef62b823e491992d0f2f7d7c84c">
 <!--
 **JorgeKGIT/JorgeKGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
